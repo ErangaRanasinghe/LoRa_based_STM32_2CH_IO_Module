@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "govi_v3_sensor_footprints_kicad")(type "KiCad")(uri "${KIPRJMOD}/govi_v3_sensor_footprints_kicad.pretty")(options "")(descr ""))
+)
