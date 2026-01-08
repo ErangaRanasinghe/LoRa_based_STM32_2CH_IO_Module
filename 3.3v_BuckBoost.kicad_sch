@@ -2149,7 +2149,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Inductor_SMD_Wurth:L_Wurth_WE-LQSH-4020"
+		(property "Footprint" "Inductor_SMD:L_KOHERelec_MDA7030"
 			(at 127 99.06 0)
 			(effects
 				(font

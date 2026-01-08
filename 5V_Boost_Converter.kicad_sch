@@ -3013,7 +3013,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TPS61023DRLR:SOT563-ORI"
+		(property "Footprint" "govi_v3_sensor_footprints_kicad:SOT563-ORI"
 			(at 144.78 97.79 0)
 			(effects
 				(font

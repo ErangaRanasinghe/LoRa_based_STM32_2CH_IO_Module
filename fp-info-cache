@@ -1,4 +1,4 @@
-26734607931865309
+26738143157912099
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -106365,6 +106365,13 @@ BAT_1042P
 2
 2
 govi_v3_sensor_footprints_kicad
+G3MB202PLDC5
+G3MB-202PL-DC5
+Relay or Contactor
+0
+4
+4
+govi_v3_sensor_footprints_kicad
 HLK5M05
 HLK-5M05
 Power Supply
@@ -106415,6 +106422,13 @@ govi-ai-logo-back
 0
 govi_v3_sensor_footprints_kicad
 govi-ai-logo-front
+
+
+0
+0
+0
+govi_v3_sensor_footprints_kicad
+logo
 
 
 0

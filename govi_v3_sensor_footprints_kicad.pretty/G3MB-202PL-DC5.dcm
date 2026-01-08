@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP G3MB-202PL-DC5
+D Solid State Relays - PCB Mount 5VDC/100-240VAC 2A
+K
+F https://www.mouser.com/datasheet/2/307/g3mb_0609-1189645.pdf
+$ENDCMP
+#
+#End Doc Library

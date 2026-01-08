@@ -1855,7 +1855,7 @@
 			(width 0)
 			(type default)
 		)
-		(uuid "2f6b9f08-8913-4c88-87e1-e6c890c3f7d2")
+		(uuid "35e7e998-b080-41ef-bf36-37a9eae2a385")
 	)
 	(wire
 		(pts
@@ -2025,7 +2025,7 @@
 			(width 0)
 			(type default)
 		)
-		(uuid "b4f40c18-3248-49e5-9439-ed39395b540d")
+		(uuid "b47901f5-9804-4fae-8ad3-7bea10cce050")
 	)
 	(wire
 		(pts
@@ -2647,7 +2647,7 @@
 				)
 			)
 		)
-		(property "Footprint" "govi_v3_sensor_footprints_kicad:P=7.62mm Barrier Terminal Blocks azend"
+		(property "Footprint" "Connector_Phoenix_MC_HighVoltage:PhoenixContact_MCV_1,5_2-G-5.08_1x02_P5.08mm_Vertical"
 			(at 96.52 99.06 0)
 			(effects
 				(font

@@ -1,0 +1,7 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"C1101,C1102","2","0.1MFD","","","","Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder","~"
+"J1101,J1102","2","5.08mm 2P Screw Plug-in Terminal","","","","Connector_Phoenix_MSTB:PhoenixContact_MSTBA_2,5_2-G-5,08_1x02_P5.08mm_Horizontal","~"
+"Q1101,Q1102","2","BC817-40","","","","Package_TO_SOT_SMD:SOT-23","~"
+"R1101,R1104","2","10R 0805","","","","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","~"
+"R1102,R1103","2","1K","","","","Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","~"
+"U1101,U1102","2","G3MB-202P","","","","OptoDevice:Finder_34.81","https://gfinder.findernet.com/public/attachments/34/EN/S34USAEN.pdf"
